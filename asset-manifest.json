@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/anime-database-master/static/js/main.c4e15e1a.js",
+    "index.html": "/anime-database-master/index.html",
+    "main.c4e15e1a.js.map": "/anime-database-master/static/js/main.c4e15e1a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4e15e1a.js"
+  ]
+}
